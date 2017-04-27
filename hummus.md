@@ -1,4 +1,4 @@
-Created by User CCC
+ Created by User CCC
 
 # Ingredients
 - chickpeas
