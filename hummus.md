@@ -3,6 +3,6 @@ Created by User A
 - chickpeas
 - lemon
 - olive oil
-- salt
+
 
 
